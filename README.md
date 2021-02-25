@@ -1,5 +1,5 @@
 #README
-this if file for teamspeak with sinusbot
+This if file for teamspeak with Sinusbot.
 
 Just start with
 > docker stack deploy -c .\stack.yml teamspeak
