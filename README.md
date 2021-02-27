@@ -2,7 +2,7 @@
 This if file for teamspeak with Sinusbot.
 
 Just start with
-> docker stack deploy -c .\stack.yml teamspeak
+> docker stack deploy -c ./stack.yml teamspeak
  
 
 ...and forget.
